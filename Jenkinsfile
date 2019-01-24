@@ -26,6 +26,6 @@ pipeline {
     }
   }
   environment {
-    Ci = 'true'
+    CI = 'true'
   }
 }
